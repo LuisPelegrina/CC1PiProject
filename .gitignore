@@ -1,0 +1,11 @@
+# Default ignored files
+/Data
+/Graphs
+*.root
+*.pdf
+*.png
+*.o
+*.d
+*.cxx
+*.pcm
+*.so
